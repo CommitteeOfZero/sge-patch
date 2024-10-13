@@ -1,0 +1,48 @@
+{
+    "windowTitle": "Steins;Gate Elite Steam Patch Installer",
+    "uninstallerWindowTitle": "Steins;Gate Elite Steam Patch Uninstaller",
+    "gameTitle": "Steins;Gate Elite",
+    "inputScriptVersionTitle": "English Steam",
+    "paths": {
+        "GAME_STEAM_NAME": "SG_ELITE",
+        "PATCH_CONTENT": "DIST",
+        "LAUNCHERENG_PATH": "%GAME_PATH%/LauncherC0.exe",
+        "LANGUAGEBARRIER_LOG_PATH": "%GAME_PATH%/languagebarrier/log.txt",
+        "LAUNCHER_EXE": "LauncherC0.exe"
+    },
+    "platforms": {
+        "windows": {
+            "conflictingProcesses": [
+                "Game.exe",
+                "noidget.exe",
+                "Launcher.exe",
+                "LauncherC0.exe",
+                "SGEPatch-Installer.exe"
+            ],
+            "uninstallProductKey": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\SteinsGateEliteSteamPatch",
+            "uninstallProductDisplayName": "Steins;Gate Elite Improvement Patch",
+            "uninstallProductDisplayVersion": "1.0.0",
+            "uninstallProductVersionMajor": 1,
+            "uninstallProductVersionMinor": 0,
+            "uninstallProductUninstallString": "\"%GAME_PATH%/nguninstall.exe\"",
+            "paths": {
+                "COZ_CONFIG_LOCATION": "%LOCALAPPDATA%/Committee of Zero",
+                "CONFIG_LOCATION": "%COZ_CONFIG_LOCATION%/SGESteam",
+                "MAGES_CONFIG_LOCATION": "%MYDOCUMENTS%/My Games/mages_steam",
+                "GAME_CONFIG_LOCATION": "%MAGES_CONFIG_LOCATION%/Steins Gate ELITE/eng",
+                "DESKTOP_SHORTCUT_PATH": "%DESKTOP%/Steins;Gate Elite Improvement Patch (Steam).lnk",
+                "STARTMENU_SHORTCUT_PATH": "%STARTMENU%/Steins;Gate Elite Improvement Patch (Steam).lnk"
+            }
+        }
+    },
+    "playShortcut": {
+        "displayName": "Steins;Gate Elite Improvement Patch (Steam)",
+        "version": "1.0.0",
+        "targetPath": "%LAUNCHERENG_PATH%",
+        "workingDir": "%GAME_PATH%",
+        "tooltip": "Play Steins;Gate Elite Improvement Patch (Steam)",
+        "xdgCategories": "Game"
+    },
+    "origScriptArchivePath": "%GAME_PATH%/Data/script.cpk",
+    "origScriptArchiveHash": "1e1b57a209af11783c9b2d6bc4219163"
+}

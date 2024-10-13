@@ -1,0 +1,35 @@
+config.ps1
+temp/
+DIST/
+symbols/
+sge-scripts/*
+!sge-scripts/.gitkeep
+sge-edited-images/*
+!sge-edited-images/.gitkeep
+script_archive_steam/*
+!script_archive_steam/.gitkeep
+sge-scripts/*
+!sge-scripts/.gitkeep
+/*.zip
+/*.rar
+content/languagebarrier/c0data/*
+!content/languagebarrier/c0data/.gitkeep
+content/languagebarrier/subs/fonts/*
+!content/languagebarrier/subs/fonts/.gitkeep
+
+# noidget
+installer/build/*
+!installer/build/.gitkeep
+installer/deploy/
+installer/deployUninstaller/
+installer/userdata/enscriptToc.json
+installer/userdata/enscriptTocC.json
+
+# realboot
+launcher/build/*
+!launcher/build/.gitkeep
+launcher/deploy/
+
+content/languagebarrier/audio/*
+content/languagebarrier/videos/720p/*
+content/languagebarrier/videos/1080p/*

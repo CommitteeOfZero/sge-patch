@@ -1,0 +1,15 @@
+tit001.jpg
+tit002.jpg
+tit003.jpg
+tit004.jpg
+tit005.jpg
+tit006.jpg
+tit007.jpg
+tit008.jpg
+tit009.jpg
+tit010.jpg
+tit011.jpg
+tit012.jpg
+clearlist_en.png
+config2_pc_en.png
+data01_ps4_en.png
