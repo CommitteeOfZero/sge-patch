@@ -10,11 +10,11 @@ catch {
 }
 
 # EXE metadata configuration
-$version_string = "1.0.0"
+$version_string = "1.1.0"
 $tool_icon = "CoZIcon.ico"
 $game_icon = "LauncherIcon.ico"
 $publisher = "Committee of Zero"
-$product_name = "STEINS;GATE ELITE Improvement Patch"
+$product_name = "STEINS;GATE ELITE Improvement Patch (Steam)"
 
 # Code
 
