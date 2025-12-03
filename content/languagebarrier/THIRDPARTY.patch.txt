@@ -1,4 +1,4 @@
-STEINS;GATE ELITE Improvement Patch depends on a number of third-party components:
+STEINS;GATE ELITE Improvement Patch (Steam) depends on a number of third-party components:
 
 Installer background music: "GATE OF STEINER 2A03" by Takeshi Abo <https://soundcloud.com/valsound/gate-of-steiner-2a03-from>
 Subtitle font listing follows.

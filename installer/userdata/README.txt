@@ -1,6 +1,6 @@
-STEINS;GATE ELITE Improvement Patch
+STEINS;GATE ELITE Improvement Patch (Steam)
 Committee of Zero
-Version 1.0.0 - October 15, 2024
+Version 1.1.0 - December 14, 2025
 ==============================
 https://sonome.dareno.me
 https://twitter.com/CommitteeOf0
@@ -13,6 +13,14 @@ https://www.twitch.tv/CommitteeOfZero
 See https://sonome.dareno.me/projects/sge-patch.html for details, contact information and further instructions.
 
 For troubleshooting, please come to our Discord. You can always find the latest version of the patch at https://github.com/CommitteeOfZero/sge-patch/releases
+
+==============================
+Changes from 1.0.0:
+==============================
+
+* Switch compatibility.
+* Minor text and consistency fixes.
+* Fixed a bug where some empty lines were displayed.
 
 ==============================
 Credits: 
@@ -28,6 +36,9 @@ Hacking:
 * SomeAnon
 * daxxy
 * MrComputerRevo
+
+Switch Porting:
+* RubyX_Coded
 
 Translation:
 * Enorovan

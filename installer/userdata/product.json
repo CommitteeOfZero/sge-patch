@@ -21,9 +21,9 @@
             ],
             "uninstallProductKey": "SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Uninstall\\SteinsGateEliteSteamPatch",
             "uninstallProductDisplayName": "Steins;Gate Elite Improvement Patch",
-            "uninstallProductDisplayVersion": "1.0.0",
+            "uninstallProductDisplayVersion": "1.1.0",
             "uninstallProductVersionMajor": 1,
-            "uninstallProductVersionMinor": 0,
+            "uninstallProductVersionMinor": 1,
             "uninstallProductUninstallString": "\"%GAME_PATH%/nguninstall.exe\"",
             "paths": {
                 "COZ_CONFIG_LOCATION": "%LOCALAPPDATA%/Committee of Zero",
@@ -37,7 +37,7 @@
     },
     "playShortcut": {
         "displayName": "Steins;Gate Elite Improvement Patch (Steam)",
-        "version": "1.0.0",
+        "version": "1.1.0",
         "targetPath": "%LAUNCHERENG_PATH%",
         "workingDir": "%GAME_PATH%",
         "tooltip": "Play Steins;Gate Elite Improvement Patch (Steam)",

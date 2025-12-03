@@ -1,4 +1,4 @@
-STEINS;GATE ELITE Improvement Patch (Steam)
+STEINS;GATE ELITE Improvement Patch (Switch)
 Committee of Zero
 Version 1.1.0 - December 14, 2025
 ==============================

@@ -6,8 +6,12 @@ sge-scripts/*
 !sge-scripts/.gitkeep
 sge-edited-images/*
 !sge-edited-images/.gitkeep
+c0data_switch_eng/*
+!c0data_switch_eng/.gitkeep
 script_archive_steam/*
 !script_archive_steam/.gitkeep
+script_archive_switch/*
+!script_archive_switch/.gitkeep
 sge-scripts/*
 !sge-scripts/.gitkeep
 /*.zip
